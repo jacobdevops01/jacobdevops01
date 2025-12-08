@@ -10,6 +10,9 @@
   <a href="https://t.me/jacobvell"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/jacobdevops01/jacobdevops01/raw/main/gif/line.gif" alt="Анимированная линия" width="100%">
+</p>
 ---
 
 ## 😎 About me
