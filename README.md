@@ -68,14 +68,3 @@
 
 <img src="https://i.imgur.com/C8kGQ5o.png" width="200" align="right">
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YakupWelliyew&layout=compact&theme=dark)
-![Yakup's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakupWelliyew&show_icons=true&theme=dark)
-
----
-
-## 🧩 Fun fact
-> I automate everything I touch 😄
->
-
