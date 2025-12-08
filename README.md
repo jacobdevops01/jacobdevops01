@@ -6,7 +6,7 @@
   <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
----
+
 
 ## 😎 About me
 
@@ -17,7 +17,7 @@
 - 🔥 I love to build infrastructure & automate everything  
 - 🤝 Ready to learn from experienced engineers  
 
----
+
 
 ## 🔥 My Skills
 
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 </p>
 
----
+
 
 ## 📜 Certificates
 | Certificate | Platform | Date | Link |
