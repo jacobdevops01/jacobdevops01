@@ -10,7 +10,9 @@
   <a href="https://t.me/jacobvell"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/4gS1w2k.gif" alt="Animated Gradient Separator" width="100%">
+</p>
 
 ## 😎 About me
 
