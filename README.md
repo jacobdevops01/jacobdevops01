@@ -14,7 +14,6 @@
 </p>
 
 ## 😎 About me
-
 - 🚀 I'm a Junior DevOps engineer  
 - 🎓 I’m learning DevOps through real hands-on projects  
 - 🐧 I work with Linux, Docker, Kubernetes, CI/CD, GitLab, GitHub Actions  
