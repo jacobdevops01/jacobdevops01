@@ -1,4 +1,8 @@
-<img src="https://i.imgur.com/BSFv4yb.png" width="100%">
+<div style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/jacobdevops01/jacobdevops01/main/gif/Life%20Code%20GIF.gif" 
+       alt="DevOps Banner" 
+       style="width:900px; max-width:100%;" />
+</div>
 
 <h1 align="center">Hello, 👋 I'm Yakup Welliyew<br>DevOps Engineer</h1>
 
