@@ -10,7 +10,9 @@
   <a href="https://t.me/jacobvell"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74734795/135940989-106598c0-826c-482a-a235-9d16a247385f.gif" width="100%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacobdevops01&show_icons=true&theme=gotham" alt="GitHub Stats">
+</p>
 
 ## 😎 About me
 
