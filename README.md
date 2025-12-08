@@ -37,11 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </p>
-
+<p align="center">
+  <img src="https://github.com/jacobdevops01/jacobdevops01/raw/main/gif/line.gif" alt="Анимированная линия" width="100%">
+</p>
 
 
 
 ##  📜 Certificates Diplomas
+
 [**📂 Access the Google Drive Folder**](https://drive.google.com/drive/folders/103t5B5j1oWR6PXf9ocG0TTJTzA28o43c)
 
 <p align="center">
