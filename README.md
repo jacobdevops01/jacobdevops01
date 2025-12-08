@@ -17,12 +17,12 @@
 
 ## 😎 About me
 
-- 🚀 I'm a Middle DevOps engineer  
-- 🎓 I’m learning DevOps through real hands-on projects  
-- 🐧 I work with Linux, Docker, Kubernetes, CI/CD, GitLab, GitHub Actions  
-- 💼 Looking for my first DevOps job or internship  
-- 🔥 I love to build infrastructure & automate everything  
-- 🤝 Ready to learn from experienced engineers  
+- 🚀 I'm a Middle DevOps Engineer with strong experience in building and automating infrastructure  
+- 🐧 Proficient with Linux, Docker, Kubernetes, Terraform, Ansible, CI/CD (GitLab, GitHub Actions)  
+- 🛠️ I design reliable pipelines, optimize deployments, and automate routine operations 
+- 🌐 Experienced with cloud & on-prem setups, monitoring stacks, networking, and container orchestration
+- 🔥 I focus on stability, scalability, security, and automation  
+- 🤝 Open for collaboration on complex infrastructure projects
 
 
 
