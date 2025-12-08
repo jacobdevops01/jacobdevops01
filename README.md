@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jacobdevops01/jacobdevops01/main/gif/Life%20Code%20GIF.gif"
+ <img src="https://raw.githubusercontent.com/jacobdevops01/jacobdevops01/main/gif/Life%20Code%20GIF.gif"
     alt="DevOps Banner"
     style="width:900px; max-width:100%;" />
 </p>
