@@ -14,6 +14,9 @@
 </p>
 
 ## 😎 About me
+<p align="center">
+  <img src="https://github.com/jacobdevops01/jacobdevops01/raw/main/gif/line.gif" alt="Анимированная линия" width="100%">
+</p>
 - 🚀 I'm a Junior DevOps engineer  
 - 🎓 I’m learning DevOps through real hands-on projects  
 - 🐧 I work with Linux, Docker, Kubernetes, CI/CD, GitLab, GitHub Actions  
