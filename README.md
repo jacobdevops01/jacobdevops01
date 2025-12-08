@@ -66,5 +66,5 @@
   <img src="https://github.com/jacobdevops01/jacobdevops01/raw/main/gif/line.gif" alt="Анимированная линия" width="100%">
 </p>
 
-<img src="https://i.imgur.com/C8kGQ5o.png" width="200" align="right">
+
 
