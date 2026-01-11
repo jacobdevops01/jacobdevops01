@@ -64,6 +64,8 @@
 <p align="center">
   <img src="https://github.com/jacobdevops01/jacobdevops01/raw/main/gif/line.gif" alt="Анимированная линия" width="100%">
 </p>
-[![SadServers Level](https://img.shields.io/badge/SadServers-Learning-455A64?style=flat-square&labelColor=FFC400&logo=githubcopilot&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 
+```bash
+[![SadServers Level](https://img.shields.io/badge/SadServers-Learning-455A64?style=flat-square&labelColor=FFC400&logo=githubcopilot&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+```
 
