@@ -17,7 +17,7 @@
 
 ## 😎 About me
 
-- 🚀 I'm a Junior+ DevOps Engineer with experience in building and automating infrastructure  
+- 🚀 I'm a DevOps Engineer with experience in building and automating infrastructure  
 - 🐧 Proficient with Linux, Docker, Kubernetes, Terraform, Ansible, CI/CD (GitLab, GitHub Actions)  
 - 🛠️ I design reliable pipelines, optimize deployments, and automate routine operations 
 - 🌐 Experienced with cloud & on-prem setups, monitoring stacks, networking, and container orchestration
